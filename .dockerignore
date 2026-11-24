@@ -1,0 +1,11 @@
+.env
+.git
+.gitignore
+storage/*
+!storage/.gitkeep
+uploads/*
+!uploads/.gitkeep
+Dockerfile
+node_modules/
+vendor/
+*.log
